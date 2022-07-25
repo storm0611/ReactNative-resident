@@ -1,0 +1,10 @@
+export const SHOW_LOADER = "SHOW_LOADER";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const UPDATE_LOADER = "UPDATE_LOADER"
+export const SET_ISLOGGEDIN = "SET_ISLOGGEDIN"
+export const SET_MESSAGE = "SET_MESSAGE"
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE"

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/condominuin.iml" filepath="$PROJECT_DIR$/.idea/modules/condominuin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/condominuin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/condominuin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1896966314/condominuin.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1896966314/condominuin.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/771323201/condominuin.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/771323201/condominuin.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-782753147/condominuin.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-782753147/condominuin.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1529934576/condominuin.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1529934576/condominuin.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1022870409/condominuin.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1022870409/condominuin.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/44871086/condominuin.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/44871086/condominuin.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/90615622/condominuin.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/90615622/condominuin.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1033663631/condominuin.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1033663631/condominuin.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
